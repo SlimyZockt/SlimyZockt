@@ -1,5 +1,6 @@
 # Adnan Abdulhafiz
 󰇮 a.abdulhafiz187@gmail.com |  [@SlimyZockt](https://github.com/SlimyZockt) | 󰖟 [slimycode.cc](https://www.slimycode.cc/)
+
 ## Projects
 **WavePover** <sub>Go, JS(JSDocs), Htmx, sql</sub>
 - Ein Demo Audio-Player, der das Hochladen und Streamen von Audiodateien ermöglicht.
@@ -29,6 +30,7 @@
 **“Jugend-forscht” Wettbewerb**
 - Erforschung des Marangoni-Bursting-Effekts
 - Entwicklung eines Python Tools zur Analyse des Effekts
+
 **Tech4Girls**
 - Ehrenamtlicher Kursleiter für verschiedene Schulen in Berlin
 
