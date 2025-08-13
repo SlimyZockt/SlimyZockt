@@ -4,5 +4,5 @@ relative_links:
   enabled: true
   collections: true
 include:
-- resume_de.md
-- resume_en.md
+  - ./include_dir/index.html
+  - ./include_dir/output.css
