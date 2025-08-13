@@ -3,6 +3,4 @@ plugins:
 relative_links:
   enabled: true
   collections: true
-include:
-  - ./include_dir/index.html
-  - ./include_dir/output.css
+source: include_dir
