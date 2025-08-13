@@ -15,7 +15,7 @@ echo "Cleanup complete."
 }
 
 trap cleanup EXIT
-bun tailwindcss -i ./style.css -o ./include_dir/output.css --watch=always &
+bun tailwindcss -i ./style.css -o ./docs/output.css --watch=always &
 pids+=($!)
 templ generate -watch &
 pids+=($!)

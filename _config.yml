@@ -3,4 +3,3 @@ plugins:
 relative_links:
   enabled: true
   collections: true
-source: include_dir
