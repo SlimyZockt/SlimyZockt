@@ -1,3 +1,3 @@
-include_dir/output.css
+# include_dir/output.css
 template/*.go
 node_modules/
