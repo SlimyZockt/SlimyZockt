@@ -3,4 +3,4 @@ set -e
 
 go install github.com/a-h/templ/cmd/templ@latest
 bun install tailwindcss @tailwindcss/cli
-bunx tailwindcss -i ./style.css -o ./docs/output.css 
+bunx tailwindcss -i ./style.css -o ./include_dir/output.css 
